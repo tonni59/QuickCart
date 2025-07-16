@@ -1,6 +1,7 @@
-// app/api/inngest/client.js
 import { Inngest } from "inngest";
 
+// ✅ Add a unique id to identify your app
 export const inngest = new Inngest({
-  name: "TONNICart App", // You can name this anything
+  id: "tonnicart-app",  // You can name this anything
+  name: "TONNICart App"
 });
