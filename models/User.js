@@ -1,14 +1,17 @@
 import mongoose from "mongoose";
-import { unique } from "next/dist/build/utils";
 
-const userSchema = new mongoose.Schema({
-    _id: {type: String, required: true},
-    name: { type: String, required: true},
-    email: { type: String, required: true, unique: true},
-    imageUrl: { type: String, required: true},
-    cartItems: { type: Object, default: {}},
-}, {minimize: false})
+const userSchema = new mongoose.Schema(
+    {
+        _id: { type: String, required: true }, // Clerk user ID
+        name: { type: String, required: true },
+        email: { type: String, required: true, unique: true },
+        imageUrl: { type: String, required: true },
+        cartItems: { type: Object, default: {} },
+    },
+    { minimize: false } // preserve empty objects
+);
 
-const User = mongoose.models.user || mongoose.model('user', userSchema)
+// Prevent model overwrite on hot-reload (for Next.js dev)
+const User = mongoose.models.User || mongoose.model("User", userSchema);
 
-export default User
+export default User;
