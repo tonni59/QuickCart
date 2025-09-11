@@ -20,10 +20,10 @@ bun dev
 ![Homepage Screenshot](screenshots/homepage.png)
 
 ### 🛒 Product Listing
-![Products Screenshot](screenshots/new-collections.png)
+![Products Screenshot](screenshots/product-listing.png)
 
 ### 🛒 Single Product
-![Products Screenshot](screenshots/popular-women.png)
+![Products Screenshot](screenshots/single-product.png)
 
 
 
