@@ -16,14 +16,14 @@ bun dev
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage Screenshot](screenshots/homepage.png)
-
 ### 🛒 Product Listing
 ![Products Screenshot](screenshots/product-listing.png)
 
 ### 🛒 Single Product
 ![Products Screenshot](screenshots/single-product.png)
+
+### 🏠 Homepage
+![Homepage Screenshot](screenshots/homepage.png)
 
 
 
