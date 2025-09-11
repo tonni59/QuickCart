@@ -14,6 +14,20 @@ pnpm dev
 bun dev
 ```
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage Screenshot](screenshots/homepage.png)
+
+### 🛒 Product Listing
+![Products Screenshot](screenshots/new-collections.png)
+
+### 🛒 Single Product
+![Products Screenshot](screenshots/popular-women.png)
+
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
