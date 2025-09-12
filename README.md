@@ -126,17 +126,17 @@ Production grade React applications that scale. The world's leading companies us
    cd QuickCart-Client-Side
     ```
 2. Install dependencies:
-```bash
-npm install
-```
+   ```bash
+    npm install
+   ```
 3. Create a .env file in the root and add:
-```bash
-REACT_APP_API_URL=http://localhost:5000
-```
+   ```bash
+   REACT_APP_API_URL=http://localhost:5000
+   ```
 4. Start development server:
-```bash
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 ### 🖥️ Server Setup
 1. Clone the server repository:
@@ -145,21 +145,21 @@ npm start
    cd QuickCart-Server-Side
     ```
 2. Install dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 3. Create a .env file in the root and add:
-```bash
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLIENT_URL=http://localhost:3000
+   ```bash
+    MONGO_URI=your_mongodb_connection_string
+    JWT_SECRET=your_jwt_secret
+    CLIENT_URL=http://localhost:3000
 
-```
+   ```
 4. Start the server:
-```bash
-npm run dev
+   ```bash
+   npm run dev
 
-```
+   ```
 
 ## 📦 NPM Dependencies
 
