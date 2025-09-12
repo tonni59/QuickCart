@@ -48,3 +48,58 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+📌 QuickCart – Full Stack E-Commerce Website
+🚀 Project Overview
+QuickCart is a full-stack e-commerce platform designed to provide a seamless online shopping experience.
+It supports customer browsing, product management, order handling, and secure checkout.
+Built with React (frontend) and Node.js + Express + MongoDB (backend).
+🔑 Default Admin Credential
+Email: admin@example.com
+Password: password
+
+
+📌 QuickCart – Full Stack E-Commerce Website
+🚀 Project Overview
+QuickCart is a full-stack e-commerce platform designed to provide a seamless online shopping experience.
+It supports customer browsing, product management, order handling, and secure checkout.
+Built with React (frontend) and Node.js + Express + MongoDB (backend).
+🔑 Default Admin Credential
+Email: admin@example.com
+Password: password
+
+
+
+
+
+✨ Features & Functionality
+👤 User Authentication & Authorization
+JWT-based login/register with protected routes.
+Admin and customer roles.
+🛍 Product Management
+Browse all products.
+Search, filter, and sort.
+Admins can create, update, and delete products.
+🛒 Shopping Cart
+Add/remove items.
+Update quantities.
+📦 Order Management
+Place new orders.
+Track user orders.
+Admin can view all orders.
+📤 Image Uploads
+Upload product images with Multer.
+📱 Responsive UI
+Optimized for desktop, tablet, and mobile.
+
+
+
+
+
+
+
