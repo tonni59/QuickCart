@@ -14,11 +14,11 @@ First, run the development server:
 Bash
 
 npm run dev
-# or
+ or
 yarn dev
-# or
+ or
 pnpm dev
-# or
+ or
 bun dev
 
 ## 📸 Screenshots
