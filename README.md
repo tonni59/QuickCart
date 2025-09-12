@@ -78,20 +78,25 @@ Password: password
 
 
 ✨ Features & Functionality
+
 👤 User Authentication & Authorization
 JWT-based login/register with protected routes.
 Admin and customer roles.
+
 🛍 Product Management
 Browse all products.
 Search, filter, and sort.
 Admins can create, update, and delete products.
+
 🛒 Shopping Cart
 Add/remove items.
 Update quantities.
+
 📦 Order Management
 Place new orders.
 Track user orders.
 Admin can view all orders.
+
 📤 Image Uploads
 Upload product images with Multer.
 📱 Responsive UI
