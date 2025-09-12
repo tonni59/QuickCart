@@ -74,19 +74,19 @@ Production grade React applications that scale. The world's leading companies us
 - 📱 Responsive frontend UI.
 
 ## 📊 Data Handling
-- MongoDB database for users, products, and orders
-- Mongoose schemas for structured data modeling
-- REST APIs for handling client requests
+- ✅MongoDB database for users, products, and orders
+- ✅Mongoose schemas for structured data modeling
+- ✅REST APIs for handling client requests
 
-## 🎨 User Experience & Design
-- Intuitive product browsing and filtering
-- Responsive layout using modern design principles
-- Interactive cart and checkout pages
+## 🧠 User Experience & Design
+- ✅Intuitive product browsing and filtering
+- ✅Responsive layout using modern design principles
+- ✅Interactive cart and checkout pages
 
 ## 🔐 Authentication & Security
-- JSON Web Tokens (JWT) for authentication
-- bcrypt for password encryption
-- Protected routes for admin and user roles
+- ✅JSON Web Tokens (JWT) for authentication
+- ✅bcrypt for password encryption
+- ✅Protected routes for admin and user roles
 
 ## 🛠 Tech Stack
 ## Frontend
@@ -105,9 +105,9 @@ Production grade React applications that scale. The world's leading companies us
 - Multer for image uploads
 - dotenv for environment management
 
-## Repositories
-- **Frontend (Client-side):** [QuickCart Frontend]([https://github.com/tonni59/QuickCart-Client-Side](https://github.com/tonni59/QuickCart))  
-- **Backend (Server-side):** [QuickCart Backend]([https://github.com/tonni59/QuickCart-Server-Side](https://github.com/tonni59/QuickCart-Server-Side))
+## 📂Repositories
+- **Frontend (Client-side):** [QuickCart Frontend](https://github.com/tonni59/QuickCart-Client-Side)  
+- **Backend (Server-side):** [QuickCart Backend](https://github.com/tonni59/QuickCart-Server-Side)
 
 ---
 
